@@ -71,13 +71,13 @@ docker run imageName sleep 5
 ```
 
 - Update or create new image [Permanent]
-![](./Images&Links/Pasted%20image%2020230521155051.png|500)
+![](./Images&Links/Pasted%20image%2020230521155051.png)
 
 - Use ENTRYPOINT to parameterize  [Permanent] , ==throws error when parameter not provided==
-![](./Images&Links/Pasted%20image%2020230521155228.png|600)
+![](./Images&Links/Pasted%20image%2020230521155228.png)
 
 - Combination of ENTRYPOINT and COMMAND , CMD acts as a default parameter in this case
-![](./Images&Links/Pasted%20image%2020230521155456.png|200)
+![](./Images&Links/Pasted%20image%2020230521155456.png)
 
 # Networking
 
